@@ -46,6 +46,36 @@ You can test the script on Puzzle #35 before applying it to Puzzle 71.
 
 If a match is found, the program creates a found.txt file with the solution.
 
+Reward Distribution System
+Compensation Structure
+External Participant Wins:
+
+Winner receives: 90% of total prize
+
+Developer receives: 10% maintenance fee covering:
+
+System infrastructure costs
+
+Software development and updates
+
+Server maintenance and hosting
+
+Other contributors do not receive compensation in this scenario
+
+Developer Solves the Puzzle:
+
+100% of prize pool distributed among all active participants
+
+Distribution based on:
+
+Number of verified scans contributed
+
+Duration of active participation
+
+Computational power provided
+
+Developer participates as regular contributor (receives share proportional to their contribution)
+
 Future Development
 
 A live website is in development to display real-time scanning progress.
